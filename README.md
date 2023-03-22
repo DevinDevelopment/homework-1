@@ -33,7 +33,7 @@ N/a
 
 to use this Webpage there are 3 links in order to navigate to your wanted section. In this webpage we go over 3 different topics to help with such topics.
 
-![Website screenshot](./Develop/assets/images/Capture.png)
+![Website screenshot](/assets/images/Capture.png)
 
 ## Credits
 
